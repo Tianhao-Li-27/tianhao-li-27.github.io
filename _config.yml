@@ -6,10 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+title                    : "Tianhao Li"
+description              : "I am a Computer Science undergraduate exploring different areas of the field, with a growing interest in artificial intelligence.
+I am currently building my technical foundation through coursework and projects while gradually identifying my long-term research direction. "
+repository               : "Tianhao-Li-27/Tianhao-Li-27.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -22,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tianhao Li"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  avatar           : "images/Tianhao Li Profile.jpg"
+  bio              : "Kean University"
   location         : "New Jersey, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "tianhao.li.27@outlook.com"
+  email            : "litianh@kean.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           :  "Tianhao-Li-27"
   google_plus      :
   keybase          :
   instagram        :
